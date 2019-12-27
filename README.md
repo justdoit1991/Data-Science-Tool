@@ -3,7 +3,7 @@ My data science toolbox
 
 - ## 1. 資料清理數據前處裡
 
-1. [資料介紹與評估資料](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_001_HW/Day_001_HW.ipynb)
+1. [資料介紹與評估資料](https://github.com/justdoit1991/Data_Science_Tool/blob/master/1.JPG)
 
-![百日馬拉松](1.jpg)
+
 
